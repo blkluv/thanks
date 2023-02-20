@@ -1,5 +1,5 @@
 <div align="center">
-  # [Thank For YOurself](https://thanks-for-yourself.vercel.app/)
+# [Thank For YOurself](https://thanks-for-yourself.vercel.app/)
   <p>A simple but powerful program to help users express gratitude and positive thoughts about the things life has gone through.</p>
 </div>
 
