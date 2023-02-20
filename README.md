@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://thanks-for-yourself.vercel.app/"><h1>Thanks For Yourself.</h1></a>
+  <h1 href="https://thanks-for-yourself.vercel.app/">Thanks For Yourself.</h1>
   <p>A simple but powerful program to help users express gratitude and positive thoughts about the things life has gone through.</p>
 </div>
 
